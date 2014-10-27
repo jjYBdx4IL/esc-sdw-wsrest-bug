@@ -5,4 +5,4 @@ test case for URL incompatibility of https://sdw-wsrest.ecb.europa.eu/
 
 Command to run the tests:
 
-> mvn clean install
+> mvn test
