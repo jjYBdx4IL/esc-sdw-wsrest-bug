@@ -1,11 +1,8 @@
-esc-sdw-wsrest-bug
-==================
+Examples for various Java http clients.
 
-test case for java.net.URL incompatibility of https://sdw-wsrest.ecb.europa.eu/
-
-Command to run the tests:
+Command to run the examples:
 
 > mvn test
 
-[![Build Status](https://travis-ci.org/jjYBdx4IL/esc-sdw-wsrest-bug.png?branch=master)](https://travis-ci.org/jjYBdx4IL/esc-sdw-wsrest-bug)
+[![Build Status](https://travis-ci.org/jjYBdx4IL/http-client-examples.png?branch=master)](https://travis-ci.org/jjYBdx4IL/http-client-examples)
 
