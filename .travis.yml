@@ -1,0 +1,6 @@
+language: java
+script: mvn -V -B install
+dist: trusty
+notifications:
+  email: false
+
